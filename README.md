@@ -1,4 +1,5 @@
 SALES PROJECT
+
 🔍 Project Overview
 This project demonstrates a comprehensive analysis pipeline using SQL for data extraction and Python (Pandas) for further analysis, visualization, and interpretation. The dataset (referred to as df_orders) contains detailed sales transaction records including product, category, region, revenue, and profit.
 
